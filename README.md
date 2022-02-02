@@ -52,7 +52,7 @@ Run in Unix
 
 Run in a terminal the following commands:
 
-`cd bt_editor`
+`cd build`
 
 `./behavior_tree_editor`
 
